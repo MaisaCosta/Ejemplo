@@ -1,0 +1,18 @@
+
+body {
+    background-color: yellowgreen;
+
+}
+h1 {
+    background-color: aquamarine;
+    color: rebeccapurple;
+    font-size: 50px;
+}
+.green {
+    background-color: mediumvioletred;
+
+}
+
+#red {
+    background-color: tomato;
+}
